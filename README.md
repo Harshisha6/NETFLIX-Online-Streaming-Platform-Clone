@@ -1,3 +1,12 @@
+Layout of the Home Page
+![image](https://github.com/Harshisha6/NETFLIX-Online-Streaming-Platform-Clone/assets/97225894/2e8988d6-9589-46b9-a708-570532d2a55f)
+
+Layout of Add To Cart Dialog
+![image](https://github.com/Harshisha6/NETFLIX-Online-Streaming-Platform-Clone/assets/97225894/5e5df615-f2c6-406d-b9cc-7d63ba288fb4)
+
+Layout of the Cart
+![image](https://github.com/Harshisha6/NETFLIX-Online-Streaming-Platform-Clone/assets/97225894/c3251a64-180f-4c39-bd1e-9a07d2a3b6d2)
+
 ### To intsall all rhe required dependecies
 
 ```
